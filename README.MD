@@ -3,7 +3,7 @@
 -----
 
 A minimap plugin, without any clientside mods.
-
+ss
 https://github.com/JNNGL/VanillaMinimaps/assets/45935949/4a6f9cf4-0575-4a46-852e-da11a18edc56
 
 https://github.com/JNNGL/VanillaMinimaps/assets/45935949/ea7738c9-bd4a-4388-9d65-109aa9233fcc
